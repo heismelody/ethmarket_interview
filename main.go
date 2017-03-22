@@ -1,7 +1,7 @@
 package main
 
 import (
-	
+
 	"encoding/json"
 	"math/rand"
 	"strconv"

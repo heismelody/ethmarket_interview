@@ -1,0 +1,21 @@
+body {
+  color: #1E1F1F;
+}
+
+a {
+  color: #1E1F1F;
+}
+
+header {
+  background-color:#8AA2A5;
+  color: #1E1F1F;
+}
+
+.top-right-body{
+  width: 40%;
+  float: right;
+}
+.top-left-body{
+  width: 40%;
+  float: left;
+}
